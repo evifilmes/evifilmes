@@ -1,16 +1,29 @@
-## Hi there 👋
+### Boas vindas ao meu perfil🖤 
 
-<!--
-**evifilmes/evifilmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Evein Aparecida souta monteiro
 
-Here are some ideas to get you started:
+-Estou estudando na Alura 
+-Estou me desenvolvendo na linguagem JavasSript
+-Utilizo esse espaco para minha organizacao compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce entrar em contato comigo📫 
+
+00001126938920sp@al.educacao.sp.gov.br
+
+@evelinmonteiro
+
+
+https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif
+
+
+
+
+
+
+
+
+
+
+
+
+
