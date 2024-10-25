@@ -2,9 +2,9 @@
 
 Meu nome e Evein Aparecida souta monteiro
 
--Estou estudando na [Alura] (https://ww.alura.com.br)
--Estou me desenvolvendo na linguagem JAVASCRIPT
--Utilizo esse espaco para minha organizacao compartilhamento dos meus projetos desenvolvidos
+- Estou estudando na [Alura] (https://ww.alura.com.br)
+- Estou me desenvolvendo na linguagem JAVASCRIPT
+- Utilizo esse espaco para minha organizacao compartilhamento dos meus projetos desenvolvidos
 
 ### Voce entrar em contato comigo📫 
 
